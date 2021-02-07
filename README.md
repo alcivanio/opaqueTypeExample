@@ -1,0 +1,2 @@
+# opaqueTypeExample
+Opaque Types example
